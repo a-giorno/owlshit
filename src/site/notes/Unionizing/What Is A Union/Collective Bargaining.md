@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unionizing/what-is-a-union/collective-bargaining/","created":"2025-02-03T19:01:00"}
+{"dg-publish":true,"permalink":"/unionizing/what-is-a-union/collective-bargaining/","created":"2025-02-03T19:01:00","updated":"2025-02-03T19:05:00"}
 ---
 
 When the employer and the [[Unionizing/What Is A Union/What Is A Union\|union]] negotiate in good faith on wages, benefits, work hours, and other employment terms and conditions.
