@@ -30,5 +30,11 @@ body {
     --callout-color: #26BEFF;
     border-radius: 10px;
 }
+
+.callout[data-callout="protection"] {
+    --callout-icon: lucide-shield;
+    --callout-color: #26BEFF;
+    border-radius: 10px;
+}
     
 }
