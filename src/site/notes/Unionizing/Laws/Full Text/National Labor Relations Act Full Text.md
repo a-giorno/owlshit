@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unionizing/laws/full-text/national-labor-relations-act-full-text/","tags":["legal","federal-law","unionizing"],"created":"2025-01-30T19:13:23.516-08:00","updated":"2025-01-30T17:43:34.463-08:00"}
+{"dg-publish":true,"permalink":"/unionizing/laws/full-text/national-labor-relations-act-full-text/","tags":["legal","federal-law","unionizing"],"created":"2025-01-28T17:33:00","updated":"2025-01-28T17:45:00"}
 ---
 
 In 1935, Congress passed the National Labor Relations Act (“NLRA”), making clear that it is the policy of the United States to encourage collective bargaining by protecting workers’ full freedom of association. The NLRA protects workplace democracy by providing employees at private-sector workplaces the fundamental right to seek better working conditions and designation of representation without fear of retaliation.

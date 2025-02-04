@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unionizing/what-is-a-union/collective-bargaining-agreement/","created":"2025-02-03T19:06:00"}
+{"dg-publish":true,"permalink":"/unionizing/what-is-a-union/collective-bargaining-agreement/","created":"2025-02-03T19:06:00","updated":"2025-02-03T19:13:00"}
 ---
 
 A legal written contract between [[Unionizing/What Is A Union/What Is A Union\|organized labor]] and an employer that is enforceable through the negotiated grievance and arbitration procedure
